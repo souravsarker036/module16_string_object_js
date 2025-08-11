@@ -21,3 +21,4 @@ const subject = {
         marks: 100,
     }
 }
+console.log(bottle, subject)
