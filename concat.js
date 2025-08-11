@@ -7,4 +7,4 @@ const fullName2 = first.concat(' ').concat(last)
 
 // includes means if any index in the string
 
-console.log(last.includes('s'))
+console.log(last.includes('a'))
